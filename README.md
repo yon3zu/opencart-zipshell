@@ -1,6 +1,6 @@
 ## Opencart Extension Shell
 
-Upload on extension installer.
+Upload on extension installer.<br>
 You can add your own shell in the .zip file, by uploading it at the path /upload/admin/controller/extension/extension/
 
 ## How to call it ?<br>
